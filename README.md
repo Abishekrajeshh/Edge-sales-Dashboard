@@ -8,7 +8,7 @@ This repository houses a Power BI dashboard designed to provide insights into Ed
 ## **See the Full Dash Board Here** 
 
 ![Edge Dashboard](Dashboard.png) 
-[Edge Analysis App PowerBI Link]([https://app.powerbi.com/groups/me/reports/3109e288-75c6-4f86-bb84-0091e7133fc2/2939f8cb39420bd133ba?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiMjI4N2ZkOTctZGJkYy00MWE0LThmMTQtNGEzMmUyZjllZjgyIiwidCI6IjE3ZjFhODdlLTJhMjUtNGVhYS1iOWRmLTlkNDM5MDM0YjA4MCIsImMiOjF9))
+[Edge Analysis App PowerBI Link](https://app.powerbi.com/view?r=eyJrIjoiMjI4N2ZkOTctZGJkYy00MWE0LThmMTQtNGEzMmUyZjllZjgyIiwidCI6IjE3ZjFhODdlLTJhMjUtNGVhYS1iOWRmLTlkNDM5MDM0YjA4MCIsImMiOjF9)
 
 ## **Key Features** 
 
